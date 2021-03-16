@@ -22,8 +22,8 @@ Your Rationale: I went with bright colors that make me think of flowers, since i
 
 3. A triadic color palette for styling the login page for a private messaging app
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=35j0e0klZqi9TE4gRueqCmMv3i-
+Your Rationale: A login page should be simple, so I went with having my 2 complementary colors pretty close together, a lime and green. The magenta contrasts with the green.
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 
