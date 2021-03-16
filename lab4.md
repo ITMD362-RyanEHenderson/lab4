@@ -27,6 +27,6 @@ Your Rationale: A login page should be simple, so I went with having my 2 comple
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=1000e0kp4n-cVvNjOqJsZjCAPf7
+Your Rationale: The theme for Ruby is obviously red, so I went with a medium strength red. Then adjust a bit to get the color just right.
 
