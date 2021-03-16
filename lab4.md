@@ -12,8 +12,8 @@ Create a Basecamp post "Lab-4: your name" and simply post the following as plain
 
 1. An adjacent color palette for introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=52I140k5eoB0SES2Jtm8wkHcIh2
+Your Rationale: I tend to think of consoles as a bit more muted in color, so I brought it closer to white. The green primary with the purple and yellow make for colors that don't go badly together, and I don't want them to pop very much.
 
 2. A triadic color palette for announcing Chicago Botanical Gardens springtime tours.
 
