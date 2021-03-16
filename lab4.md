@@ -17,8 +17,8 @@ Your Rationale: I tend to think of consoles as a bit more muted in color, so I b
 
 2. A triadic color palette for announcing Chicago Botanical Gardens springtime tours.
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=33H120kxRKfiJMfpoKjKKw2M6oP
+Your Rationale: I went with bright colors that make me think of flowers, since it's for botanical gardens. The red and yellow complement the blue really well here.
 
 3. A triadic color palette for styling the login page for a private messaging app
 
